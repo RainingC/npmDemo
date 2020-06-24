@@ -1,8 +1,8 @@
 {
-  "name": "npmDemo",
+  "name": "checktime",
   "version": "1.0.0",
-  "description": "",
-  "main": "webpack.config.js",
+  "main": "dist/lib/index.js",
+  "files": ["dist/**/*"],
   "directories": {
     "lib": "lib"
   },
