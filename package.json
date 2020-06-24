@@ -1,5 +1,5 @@
 {
-  "name": "checktime",
+  "name": "checknowtime",
   "version": "1.0.0",
   "main": "dist/lib/index.js",
   "files": ["dist/**/*"],
